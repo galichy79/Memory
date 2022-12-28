@@ -15,6 +15,8 @@
 [Простой способ установки Arch в 2022 году ](https://www.youtube.com/watch?v=pBtBMY9Ubbw&t=70s)
 
 [Індекс олів'є 2022](https://minfin.com.ua/ua/2022/12/27/97978917/)
+
+
 [Гугл](https://google.com)
 
 
