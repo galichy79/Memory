@@ -6,7 +6,7 @@
 
 [Windows ISO Downloader](https://www.softportal.com/get-43444-windows-iso-downloader.html)
 
-[Сайт на bootstrap за 45 минут Гоша Дударь](https://itproger.com/course/one-lesson/3
+[Сайт на bootstrap за 45 минут Гоша Дударь](https://itproger.com/course/one-lesson/3)
 
 [Внешинй карман Orico](https://rozetka.com.ua/331881784/p331881784/)
 
