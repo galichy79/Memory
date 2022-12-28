@@ -24,6 +24,9 @@
 [Как к одному ноуту подключить 2-а монитора если на нем один hdmi](https://www.youtube.com/watch?v=iDD5sJTU5o0)
 
 
+[Гугл](https://google.com)
+
+
 
 
 
