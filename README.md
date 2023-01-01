@@ -28,9 +28,15 @@
 
 [Что в Р с ураном](https://www.youtube.com/watch?v=1UvMoDfgIvQ)
 
+<<<<<<< HEAD
 [Создание нового ssh ключа и добавление его в ssh-agent](https://docs-github-com.translate.goog/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux&_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=ru)
 
 [help](/doc/help.md)
+=======
+[Що таке є гривня та які її перспективи в У](https://economics.novyny.live/finance/chto-takoe-e-grivna-i-kakovy-ee-perspektivy-v-ukraine-66700.html)
+
+
+>>>>>>> aab63abf6690ac8b1ce032a7c149ef42d76d1417
 
 
 
