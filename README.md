@@ -35,12 +35,6 @@
 =======
 
 
-
-
-
-
-
-
 [Що таке є гривня та які її перспективи в У](https://economics.novyny.live/finance/chto-takoe-e-grivna-i-kakovy-ee-perspektivy-v-ukraine-66700.html)
 
 Смотреть Джордана Питерсона
@@ -50,6 +44,9 @@
 [Bootstrap](https://getbootstrap.com/)
 
 [Bootstrap верстка современного сайта за 45 минут!](https://www.youtube.com/watch?v=46q2eB7xvXA&t=99s)
+
+[Конспект курса по руби Романа Пушкина](https://github.com/krdprog/rubyschool-notes/blob/master/one-by-one/lesson-01.md)
+---
 
 
 
