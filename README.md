@@ -39,7 +39,12 @@ Jekyll
 
 sudo apt-get update 
 
-[Site Jekyll](https://jekyllrb.com/)
+[jelyllrb.com](https://jekyllrb.com/)
+
+[kiviok site](http://kiviok.github.io/2016/09/16/using-webstorm-for-jekyll/)
+
+
+Писать сайт для Проявки на базе Bootstrap верстка современного сайта за 45 минут
 
 
 [Що таке є гривня та які її перспективи в У](https://economics.novyny.live/finance/chto-takoe-e-grivna-i-kakovy-ee-perspektivy-v-ukraine-66700.html)
