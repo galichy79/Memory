@@ -34,6 +34,13 @@
 [Linux](/doc/Linux_mint.md)
 =======
 
+Jekyll
+---
+
+sudo apt-get update 
+
+[Site Jekyll](https://jekyllrb.com/)
+
 
 [Що таке є гривня та які її перспективи в У](https://economics.novyny.live/finance/chto-takoe-e-grivna-i-kakovy-ee-perspektivy-v-ukraine-66700.html)
 
