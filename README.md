@@ -50,7 +50,6 @@ sudo apt-get update
 
 
 
-
 Вы можете использовать средство миграции Sass для автоматического обновления ваших таблиц стилей для использования math.div()и  list.slash().
 
 sudo apt install npm
@@ -83,13 +82,4 @@ sudo sass-migrator division **/*.scss
 
 [Конспект курса по руби Романа Пушкина](https://github.com/krdprog/rubyschool-notes/blob/master/one-by-one/lesson-01.md)
 ---
-
-
-
-
-
-
-
-
-
 
