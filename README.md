@@ -46,7 +46,10 @@ sudo apt-get update
 [kivi ok video про сайт на Jekyll](https://robotkang-cc.translate.goog/19620.html?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=ru)
 
 Сайт на Jekyll. #1 Рисование каркаса сайта
+
+[Skeleton](http://getskeleton.com/)
 ___
+
 
 
 [Как настроить VS Code для увеличеия продуктивности](https://techrocks.ru/2019/03/31/vs-code-customization/)
