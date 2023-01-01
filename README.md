@@ -43,6 +43,19 @@ sudo apt-get update
 
 [kiviok site](http://kiviok.github.io/2016/09/16/using-webstorm-for-jekyll/)
 
+[kivi ok video про сайт на Jekyll](https://robotkang-cc.translate.goog/19620.html?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=ru)
+
+
+
+Вы можете использовать средство миграции Sass для автоматического обновления ваших таблиц стилей для использования math.div()и  list.slash().
+
+sudo apt install npm
+
+sudo npm install -g sass-migrator
+
+sudo sass-migrator division **/*.scss
+
+
 
 Писать сайт для Проявки на базе Bootstrap верстка современного сайта за 45 минут
 
@@ -50,6 +63,13 @@ sudo apt-get update
 [Що таке є гривня та які її перспективи в У](https://economics.novyny.live/finance/chto-takoe-e-grivna-i-kakovy-ee-perspektivy-v-ukraine-66700.html)
 
 Смотреть Джордана Питерсона
+
+为自由开路者，不可使其困顿于荆棘。 ...…
+
+Пусть не запутается в терниях тот, кто прокладывает путь к свободе. ... 
+---
+
+[Сайт китайца откуда взята эта цитата](https://robotkang-cc.translate.goog/19620.html?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=ru)
 
 Создание документов в маркдаун
 
