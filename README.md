@@ -30,6 +30,8 @@
 
 [Создание нового ssh ключа и добавление его в ssh-agent](https://docs-github-com.translate.goog/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux&_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=ru)
 
+[help](/doc/help.md)
+
 
 
 
