@@ -62,6 +62,8 @@ Material disign google
 
 [Гитхаб репозиторий к статьям kiviok](https://github.com/kiviok/jekyllcosmo)
 
+[Работа с компилятором GCC C++ в линукс](https://www.youtube.com/watch?v=IqCQOlci6mE)
+
 
 ___
 
