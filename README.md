@@ -56,6 +56,12 @@ Material disign google
 
 [Liquid](https://shopify.github.io/liquid/)
 
+Посмотреть примеры с ликвид.
+
+[Темы в Jekyll](https://jekyllrb-com.translate.goog/docs/themes/?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=ru)
+
+[Гитхаб репозиторий к статьям kiviok](https://github.com/kiviok/jekyllcosmo)
+
 
 ___
 
