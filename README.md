@@ -46,8 +46,17 @@ sudo apt-get update
 [kivi ok video про сайт на Jekyll](https://robotkang-cc.translate.goog/19620.html?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=ru)
 
 Сайт на Jekyll. #1 Рисование каркаса сайта
+___
 
 [Skeleton](http://getskeleton.com/)
+
+Material disign google
+
+[Параметры конфигурации Jekyll](https://jekyllrb-com.translate.goog/docs/configuration/options/?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=ru)
+
+[Liquid](https://shopify.github.io/liquid/)
+
+
 ___
 
 
