@@ -15,3 +15,9 @@ Nano
 ---
 Ctrl + O - записать файл
 Ctrl + X - выйти из редактора
+
+[XnView скриншот части экрана в линукс](https://www.xnview.com/en/xnviewmp/)
+
+[Видео о XnView time 3.39](https://www.youtube.com/watch?v=j-0vaRqF4xU)
+
+![scrin](/images/20230103_102743.jpg)
