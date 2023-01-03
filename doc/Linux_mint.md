@@ -36,3 +36,12 @@ echo 'deb [arch=amd64 signed-by=/usr/share/keyrings/signal-desktop-keyring.gpg] 
 
 # 3. Update your package database and install signal
 sudo apt update && sudo apt install signal-desktop
+
+[Как добавить изображение в маркдаун](https://denshub.com/ru/hugo-post-insert-image/)
+
+Установить make
+___
+
+sudo apt update
+
+sudo apt install make
