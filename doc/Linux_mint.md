@@ -45,3 +45,11 @@ ___
 sudo apt update
 
 sudo apt install make
+
+[Подробная информация о пакете make утилита для управления компиляцией](https://www.gnu.org/software/make/)
+
+[Gnu Make документация на русском](http://linux.yaroslavl.ru/docs/prog/gnu_make_3-79_russian_manual.html)
+
+
+
+
