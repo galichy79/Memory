@@ -20,6 +20,6 @@ Ctrl + X - выйти из редактора
 
 [Видео о XnView time 3.39](https://www.youtube.com/watch?v=j-0vaRqF4xU)
 
-![scrin](/images/20230103_102743.jpg)
+![](/images/20230103_102743.jpg)
 
 [Signal official site](https://signal.org/download/linux/)
