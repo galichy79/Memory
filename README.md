@@ -107,3 +107,7 @@ sudo sass-migrator division **/*.scss
 [Конспект курса по руби Романа Пушкина](https://github.com/krdprog/rubyschool-notes/blob/master/one-by-one/lesson-01.md)
 ---
 
+[Трудові відносини під час воєнного стану](https://ua.korrespondent.net/articles/4550159-bez-vlasnoho-bazhannia-trudovi-vidnosyny-pid-chas-voiennoho-stanu)
+
+
+
