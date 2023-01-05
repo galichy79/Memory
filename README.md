@@ -51,6 +51,9 @@ ___
 
 [Веб хостинг AWS](https://aws.amazon.com/ru/websites/)
 
+[Размещение статического сайта на AWS](https://aws.amazon.com/ru/getting-started/hands-on/host-static-website/)
+
+
 
 [Skeleton](http://getskeleton.com/)
 
