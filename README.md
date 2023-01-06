@@ -47,7 +47,7 @@ sudo apt-get update
 
 Сайт на Jekyll. #1 Рисование каркаса сайта
 ___
-[Создание статических сайтов с Jekyll Andrew Burgess(https://code.tutsplus.com/ru/articles/building-static-sites-with-jekyll--net-22211)
+[Создание статических сайтов с Jekyll Andrew Burgess](https://code.tutsplus.com/ru/articles/building-static-sites-with-jekyll--net-22211)
 
 [Веб хостинг AWS](https://aws.amazon.com/ru/websites/)
 
