@@ -2,6 +2,8 @@
 
 
 
+[Hugo](https://gohugo.io/)
+
 [Смотреть как огранизовано хранилище у Фернандо](https://github.com/android10
 )
 
