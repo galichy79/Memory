@@ -43,6 +43,10 @@ bundle exec означает выполнить нечто с помощью г�
 [Bundler](https://bundler.io/v2.4/man/bundle-exec.1.html)
 ---
 
+require - Этот метод подгружает руби-код из внешнего источника. require ищет по абсолютному пути, ему обяательно надо указать, относительно чего искать:
+
+[В чем разница между require и require_relative](http://ruby.qkspace.com/ruby-v-chem-raznitsa-mezhdu-require-i-require_relative)
+
 sudo apt-get update 
 
 [jelyllrb.com](https://jekyllrb.com/)
