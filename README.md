@@ -1,4 +1,16 @@
 
+[Д.С. Кулябов](https://yamadharma.github.io/ru/)
+---
+
+
+[github утилиты командной строки](https://yamadharma.github.io/ru/post/2021/08/04/github-command-line-utilities/)
+
+sudo snap install gh
+
+To authenticate, please run `gh auth login`.
+
+
+
 Я склонировал репозиторий через фар. И открыл в руби майн.
 
 config
