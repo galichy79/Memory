@@ -1,4 +1,15 @@
 
+Я склонировал репозиторий через фар. И открыл в руби майн.
+
+config
+
+
+Host github.com
+        User git
+        Hostname github.com
+        PreferredAuthentications publickey
+        IdentityFile /home/user/.ssh/id_rsa
+
 
 
 
