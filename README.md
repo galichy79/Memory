@@ -37,6 +37,12 @@
 Jekyll
 ---
 
+Чтобы не ставить/обновлять гемы по-одиночке каджый раз используется бандлер(который сам является гемом). Работает это так: в Gemfile ты описываешь какие гемы тебе нужны. После чего запускаешь bundle install. Бандлер проходится по твоему Gemfile и устанавливает с помощью утилиты gem. Нужные гемы. А также сойдает файл Gemfile.lock, в котором описывает что, откуда и почему он поставил. Если сказать bundle update, то бандлер заглянет в файлы Gemfile b Gemfile.lock, проверит версии и установит гем последней доступной версии. Не обновит, а поставит новый. Старая версия тоже останется. 
+bundle exec означает выполнить нечто с помощью гема из файа Gemfile.lock/ В рельсе все следует запускать через bundle.exec. Это исключит конфликт версий.
+
+[Bundler](https://bundler.io/v2.4/man/bundle-exec.1.html)
+---
+
 sudo apt-get update 
 
 [jelyllrb.com](https://jekyllrb.com/)
@@ -52,6 +58,8 @@ ___
 [Веб хостинг AWS](https://aws.amazon.com/ru/websites/)
 
 [Размещение статического сайта на AWS](https://aws.amazon.com/ru/getting-started/hands-on/host-static-website/)
+
+[netlify хостинг первый месяц бесплатно](https://www.netlify.com/)
 
 
 
