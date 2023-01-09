@@ -13,7 +13,7 @@ git remote add origin git@github.com:galichy79/gal.git
 
 git branch -M main
 
-git push -u origin main
+git push -u origin main 
 
 ---
 
