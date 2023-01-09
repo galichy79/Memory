@@ -7,9 +7,9 @@ Notebook Acer Nitro 5
 ---
 
 
-…or push an existing repository from the command line
+…or push an existing repository from the command line SSH
 
-git remote add origin https://github.com/galichy79/gal.git
+git remote add origin git@github.com:galichy79/gal.git
 
 git branch -M main
 
