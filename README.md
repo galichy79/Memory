@@ -1,4 +1,10 @@
 
+
+
+
+[Про виплати безробітнім](https://ua.korrespondent.net/articles/4551336-v-ukraini-zmenshyly-vyplaty-bezrobitnym)
+
+
 Вакансія провідний інженер будівельник
 ---
 Провідний інженер-будівельник
