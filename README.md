@@ -1,4 +1,19 @@
 
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/galichy79/gal.git
+git branch -M main
+git push -u origin main
+---
+
+
+
+
+git merge ogigin/main
+---
+
+
+
 Вакансія провідний інженер будівельник
 ---
 Провідний інженер-будівельник
