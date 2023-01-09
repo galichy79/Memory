@@ -20,7 +20,8 @@ git push -u origin main
 
 
 
-git merge ogigin/main
+git merge origin/main
+
 ---
 
 
