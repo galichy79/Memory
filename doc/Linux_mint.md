@@ -50,6 +50,9 @@ sudo apt install make
 
 [Gnu Make документация на русском](http://linux.yaroslavl.ru/docs/prog/gnu_make_3-79_russian_manual.html)
 
+[Работа с компилятором GCC C++ в линукс](https://www.youtube.com/watch?v=IqCQOlci6mE)
+
+
 
 
 
