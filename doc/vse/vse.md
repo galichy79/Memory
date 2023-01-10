@@ -34,3 +34,6 @@ v=1UvMoDfgIvQ)
 [Thether Gold](https://coinmarketcap.com/ru/currencies/tether-gold/)
 
 [Tether.to](https://tether.to/ru/)
+
+[Guarda wallet](https://guarda.com/download/)
+
