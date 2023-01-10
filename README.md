@@ -22,6 +22,7 @@
 ---
 [Заметки](/doc/vse/vse.md)
 ===
+- [Установка LinuxBrew](https://www.8host.com/blog/ustanovka-i-ispolzovanie-linuxbrew-na-servere-linux/)
 
 Notebook Acer Nitro 5
 ---
