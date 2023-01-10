@@ -28,4 +28,7 @@
 
 [Гугл](https://google.com)
 
-[Что в Р с ураном](https://www.youtube.com/watch?v=1UvMoDfgIvQ)
+[Что в Р с ураном](https://www.youtube.com/watch?
+v=1UvMoDfgIvQ)
+
+[Thether Gold](https://coinmarketcap.com/ru/currencies/tether-gold/)
