@@ -46,7 +46,7 @@ sudo sass-migrator division **/*.scss
 
 - [Що таке є гривня та які її перспективи в У](https://economics.novyny.live/finance/chto-takoe-e-grivna-i-kakovy-ee-perspektivy-v-ukraine-66700.html)
 
-Смотреть Джордана Питерсона
+Джордан Питерсон
 
 为自由开路者，不可使其困顿于荆棘。 ...…
 
@@ -54,6 +54,8 @@ sudo sass-migrator division **/*.scss
 ---
 
 - [Сайт китайца откуда взята эта цитата](https://robotkang-cc.translate.goog/19620.html?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=ru)
+
+
 
 
 
