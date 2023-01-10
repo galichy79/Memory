@@ -24,6 +24,8 @@
 ===
 - [Установка LinuxBrew](https://www.8host.com/blog/ustanovka-i-ispolzovanie-linuxbrew-na-servere-linux/)
 
+- [s3 bucket polysy](https://github.com/InsightByte/GeneralTech/tree/main/Setup-Jekyll-on-AWS)
+
 Notebook Acer Nitro 5
 ---
 - [Bootstrap Верстка современного сайта за 45 минут](https://www.youtube.com/watch?v=46q2eB7xvXA)
