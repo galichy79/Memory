@@ -23,4 +23,4 @@ Default output format: json
 
 [S3 Bucket Часть-4 - Versioning, Cross-Region Replication](https://www.youtube.com/watch?v=k9wgLT4H2VM)
 
-[S3 Bucket Часть-5 - Logging, Создание Static Web Site](https://www.youtube.com/watch?v=Ma2TtLjzyto)
+[S3 Bucket Часть-5 - Logging, Создание Static Web Site 09:07](https://www.youtube.com/watch?v=Ma2TtLjzyto)
