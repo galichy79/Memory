@@ -25,6 +25,7 @@
 
 Notebook Acer Nitro 5
 ---
+- [Bootstrap Верстка современного сайта за 45 минут](https://www.youtube.com/watch?v=46q2eB7xvXA)
 
 - [Смотреть как огранизовано хранилище у Фернандо](https://github.com/android10)
 
