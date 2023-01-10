@@ -37,3 +37,5 @@ v=1UvMoDfgIvQ)
 
 [Guarda wallet](https://guarda.com/download/)
 
+[Лучшие кошельки для всех криптовалют на 2023 год: топовые модели всех типов](https://cryptonist.ru/blog/goryachie-koshelki/vybor-koshelka-dlya-kriptovalyuty/)
+
