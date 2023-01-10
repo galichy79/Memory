@@ -15,6 +15,8 @@ CLI - comand line interface
 
 `aws configure`
 
+`aws s3 sync . s3://aaa.hello.world`
+
 Default region name: Europe (Frankfurt)
 
 Default output format: json
