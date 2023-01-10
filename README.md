@@ -15,6 +15,8 @@
 
 - ### [Linux](/doc/Linux_mint.md)
 
+- ### [AWS](/doc/AWS.md)
+
 
 
 
