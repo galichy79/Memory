@@ -13,8 +13,8 @@
 
 - ### [Д.С. Кулябов](https://yamadharma.github.io/ru/)
 
-[Linux](/doc/Linux_mint.md)
-=======
+- ### [Linux](/doc/Linux_mint.md)
+
 
 
 

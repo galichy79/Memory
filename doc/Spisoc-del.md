@@ -6,4 +6,6 @@ html
 
 css
 
-bootstrap
+bootstrap. Сайт на bootstrap за 45 минут.
+
+
