@@ -44,3 +44,7 @@ v=1UvMoDfgIvQ)
 
 `sudo snap install telegram-desktop`
 
+[Kingston DataTraveler Kyson 32GB USB 3.2 ](https://rozetka.com.ua/ua/kingston_dtkn_32gb/p242355871/)
+
+[Icons](https://fontawesome.com/)
+

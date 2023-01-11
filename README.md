@@ -24,6 +24,8 @@
 ---
 [Заметки](/doc/vse/vse.md)
 ===
+
+- [20 Полезных сочетаний клавиш для VS Code](https://highload.today/sdelaem-eto-po-bystromu-20-poleznyh-sochetanij-klavish-dlya-vs-code/)
 - [Установка LinuxBrew](https://www.8host.com/blog/ustanovka-i-ispolzovanie-linuxbrew-na-servere-linux/)
 
 - [s3 bucket polysy](https://github.com/InsightByte/GeneralTech/tree/main/Setup-Jekyll-on-AWS)
@@ -60,6 +62,10 @@ sudo sass-migrator division **/*.scss
 ---
 
 - [Сайт китайца откуда взята эта цитата](https://robotkang-cc.translate.goog/19620.html?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=ru)
+
+`Ctrl + B - скрыть панель навигации`
+
+[Настройка VS Code для верстки Дмитрий Валак видео](https://www.youtube.com/watch?v=JSGPd1E16-o)
 
 
 
