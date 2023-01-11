@@ -65,7 +65,9 @@ sudo sass-migrator division **/*.scss
 
 `Ctrl + B - скрыть панель навигации`
 
-[Настройка VS Code для верстки Дмитрий Валак видео](https://www.youtube.com/watch?v=JSGPd1E16-o)
+[Настройка VS Code для верстки Дмитрий Валак видео канал WebDesign Master](https://www.youtube.com/watch?v=JSGPd1E16-o)
+
+В основном для клиентских сайтов я использую [modx](https://modx.ru/) как наиболее удобную и быструю платформу.
 
 
 
