@@ -69,6 +69,8 @@ sudo sass-migrator division **/*.scss
 
 В основном для клиентских сайтов я использую [modx](https://modx.ru/) как наиболее удобную и быструю платформу.
 
+[https://webdesign-master.ru/](https://webdesign-master.ru/)
+
 
 
 
