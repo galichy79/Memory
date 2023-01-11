@@ -42,3 +42,5 @@ v=1UvMoDfgIvQ)
 
 [Bitcoin Armori github](https://github.com/goatpig/BitcoinArmory)
 
+`sudo snap install telegram-desktop`
+
