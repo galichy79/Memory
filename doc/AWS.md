@@ -11,6 +11,8 @@ CLI - comand line interface
 
 Настройка AWS CLI
 ---
+
+[Интерфейс командной строки AWS](https://aws.amazon.com/ru/cli/)
 `aws --version`
 
 `aws configure`
