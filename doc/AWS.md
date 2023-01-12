@@ -18,6 +18,10 @@ CLI - comand line interface
 
 `aws configure`
 
+Default region name: eu-central-1
+
+Default output format: json
+
 `aws s3 ls` пролистать бакеты
 
 `aws s3 mb s3:/aaa.hello.world` Создать бакет
@@ -26,20 +30,16 @@ CLI - comand line interface
 
 `aws s3 rb s3://aaa.hello.world --force` Удалить бакет и все содержимое. Работает если в бакете не установлен version control.
 
-
-
 `aws s3 rm s3://aaa.hello.world/my-first-backup.bak` - удалить файл my-first-backup.bak из бакета.
 
-`aws s3 sync s3://aaa.hello.world .` Синхронизировать содердимое бакета в текущую папку. Поведение команды зависит что стоит на первом месте. Если на первом месте текущая папка - содержимоее ее копируется в с3 бакет. Если на первом месте бакет - его содержимое копируется в указанную в конце папку. 
+`aws s3 sync s3://aaa.hello.world .` Синхронизировать содердимое бакета в текущую папку. Поведение команды зависит от того, что стоит на первом месте. Если на первом месте текущая папка - содержимоее ее копируется в с3 бакет. Если на первом месте бакет - его содержимое копируется в указанную в конце папку. 
 
 [How to upload and download S3 buckets with the AWS CLI video](https://www.youtube.com/watch?v=J2aZodwPeQk)
 
 [Delete S3 bucket with AWS CLI video](https://www.youtube.com/watch?v=7H8J_ZvDWQMg)
 
 
-Default region name: eu-central-1
 
-Default output format: json
 
 [S3 Bucket Часть-3 - Права и полисы доступа](https://www.youtube.com/watch?v=5DWHfcabnnY)
 
