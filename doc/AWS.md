@@ -33,10 +33,10 @@ CLI - comand line interface
 
 [How to upload and download S3 buckets with the AWS CLI video](https://www.youtube.com/watch?v=J2aZodwPeQk)
 
-[Delete S3 bucket with AWS CLI video](https://www.youtube.com/watch?v=7H8J_ZvDWQM)
+[Delete S3 bucket with AWS CLI video](https://www.youtube.com/watch?v=7H8J_ZvDWQMg)
 
 
-Default region name: ~~urope (Frankfurt)~~
+Default region name: eu-central-1
 
 Default output format: json
 
