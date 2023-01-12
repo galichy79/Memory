@@ -15,11 +15,17 @@ CLI - comand line interface
 
 `aws configure`
 
+`aws s3 ls` пролистать бакеты
+
+`aws s3 mb s3:/aaa.hello.world` Создать бакет
+
 `aws s3 sync . s3://aaa.hello.world` Синхронизировать текущую папку с s3 bucket aaa.hello.world
 
 `aws s3 rm s3://aaa.hello.world/my-first-backup.bak` - удалить файл my-first-backup.bak из бакета.
 
-`aws s3 sync s3://aaa.hello.world .` Скопировать содержимое бакета в текущую папку.
+`aws s3 sync s3://aaa.hello.world .` Синхронизировать содердимое бакета в текущую папку. Поведение команды зависит что стоит на первом месте. Если на первом месте текущая папка - содержимоее ее копируется в с3 бакет. Если на первом месте бакет - его содержимое копируется в указанную в конце папку. 
+
+[How to upload and download S3 buckets with the AWS CLI video](https://www.youtube.com/watch?v=J2aZodwPeQk)
 
 
 Default region name: ~~urope (Frankfurt)~~
