@@ -15,9 +15,14 @@ CLI - comand line interface
 
 `aws configure`
 
-`aws s3 sync . s3://aaa.hello.world`
+`aws s3 sync . s3://aaa.hello.world` Синхронизировать текущую папку с s3 bucket aaa.hello.world
 
-Default region name: Europe (Frankfurt)
+`aws s3 rm s3://aaa.hello.world/my-first-backup.bak` - удалить файл my-first-backup.bak из бакета.
+
+`aws s3 sync s3://aaa.hello.world .` Скопировать содержимое бакета в текущую папку.
+
+
+Default region name: ~~urope (Frankfurt)~~
 
 Default output format: json
 
