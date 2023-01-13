@@ -138,6 +138,8 @@ CDN, CI/CD, SSL
 
 [How To Make A Personal Website with Hugo Matteo Courthoud](https://medium.com/@matteo.courthoud/how-to-make-a-personal-website-with-hugo-f94ccb26e464)
 
+[Хьюго на самом деле объяснил (веб-сайты, темы, макеты и введение в скрипты) Luke Smith](https://www.youtube.com/watch?v=ZFL09qhKi5I)
+
 
 
 
