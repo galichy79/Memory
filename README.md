@@ -132,6 +132,10 @@ CDN, CI/CD, SSL
 
 [Мебель из металла sitwell](https://sitwell.com.ua/#contact)
 
+[Киевстар 4G](https://kyivstar.ua/reprice-ks4g)
+
+[работа с git через консоль](https://htmlacademy.ru/blog/articles/git-console)
+
 
 
 
