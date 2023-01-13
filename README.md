@@ -136,6 +136,8 @@ CDN, CI/CD, SSL
 
 [работа с git через консоль](https://htmlacademy.ru/blog/articles/git-console)
 
+[How To Make A Personal Website with Hugo Matteo Courthoud](https://medium.com/@matteo.courthoud/how-to-make-a-personal-website-with-hugo-f94ccb26e464)
+
 
 
 
