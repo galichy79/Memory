@@ -73,6 +73,8 @@ sudo sass-migrator division **/*.scss
 
 [Amnezia vpn ссылка на гитхаб](https://github.com/amnezia-vpn/shadowsocks-server)
 
+[Бесплатные хостинги для веб-разработчиков](https://habr.com/ru/post/535168/)
+
 
 
 
