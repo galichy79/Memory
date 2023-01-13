@@ -48,3 +48,7 @@ v=1UvMoDfgIvQ)
 
 [Icons](https://fontawesome.com/)
 
+- [Що таке є гривня та які її перспективи в У](https://economics.novyny.live/finance/chto-takoe-e-grivna-i-kakovy-ee-perspektivy-v-ukraine-66700.html)
+
+Джордан Питерсон
+

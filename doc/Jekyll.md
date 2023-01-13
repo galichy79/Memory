@@ -33,6 +33,8 @@ ___
 
 [netlify хостинг первый месяц бесплатно](https://www.netlify.com/)
 
+- [Bundler](https://bundler.io/v2.4/man/bundle-exec.1.html)
+
 
 
 [Skeleton](http://getskeleton.com/)
