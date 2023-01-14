@@ -145,6 +145,8 @@ CDN, CI/CD, SSL
 
 [GitHub Actions - Основы Автоматизации - DevOps - GitOps video](https://www.youtube.com/watch?v=Yg5rpke79X4&t=528s)
 
+Включение автоматизации происходит добавлением файлов YAML в специальную директорию .github/workforws/ в ваш Repository.
+
 
 
 
