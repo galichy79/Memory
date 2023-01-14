@@ -143,6 +143,8 @@ CDN, CI/CD, SSL
 
 [Matteo Courthoud](https://matteocourthoud.github.io/)
 
+[GitHub Actions - Основы Автоматизации - DevOps - GitOps video](https://www.youtube.com/watch?v=Yg5rpke79X4&t=528s)
+
 
 
 
