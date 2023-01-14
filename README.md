@@ -141,6 +141,9 @@ CDN, CI/CD, SSL
 [Хьюго на самом деле объяснил (веб-сайты, темы, макеты и введение в скрипты) Luke Smith](https://www.youtube.com/watch?v=ZFL09qhKi5I)
 
 
+[Matteo Courthoud](https://matteocourthoud.github.io/)
+
+
 
 
 
