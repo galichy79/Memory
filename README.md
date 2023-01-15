@@ -145,8 +145,12 @@ CDN, CI/CD, SSL
 
 [GitHub Actions - Основы Автоматизации - DevOps - GitOps video](https://www.youtube.com/watch?v=Yg5rpke79X4&t=528s)
 
-Включение автоматизации происходит добавлением файлов YAML в специальную директорию .github/workforws/ в ваш Repository.
+Включение автоматизации происходит добавлением файлов YAML в специальную директорию .github/workforws/my-pipeline.yml в ваш Repository.
 
+
+[Урок 6. Jupyter Notebook ставим в VS studio code, для Python, Django.](https://www.youtube.com/watch?v=X8KC17Un2W8)
+
+[Installing Jupyter официальный сайт](https://jupyter.org/install.html)
 
 
 
