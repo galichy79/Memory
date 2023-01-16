@@ -152,6 +152,19 @@ CDN, CI/CD, SSL
 
 [Installing Jupyter официальный сайт](https://jupyter.org/install.html)
 
+Доступ по ssh к гитхаб на виндовз
+
+---
+1. Git Bash
+2. ssh-keygen
+3. Копируем побличный ключ на гитхаб
+4. Клонируем репозитории.
+
+---
+
+
+
+
 
 
 
