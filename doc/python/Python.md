@@ -80,7 +80,7 @@ venv/Scripts/Activate.ps1 - активируем на виндовз powershell
 
 
 
-- [help](doc/help.md)
+
 - [markdown напиши README за две минуты видос](https://www.youtube.com/watch?v=FFBTGdEMrQ4)
 - [просто ссылка с заглушкой](#Тут)-
 - [Закон про мобінг](https://ua.korrespondent.net/articles/4547436-shtrafy-za-mobinh-yak-zakon-zakhystyt-pratsivnyka-vid-tskuvannia)
@@ -94,5 +94,3 @@ venv/Scripts/Activate.ps1 - активируем на виндовз powershell
 Чтобы сделать абзац - пропусти одну строку.
 Чтобы сделать мягкий перевод строки используй <br/>
 Теперь текст будет с новой строки. Но отступ сверху будет меньше чем у абзаца.
-Это понятно. Больше всего мне понравились относительные ссылки на документы в папке doc.
-Классно пользоваться маркдауном. Мне нравится. Особенно нравятся гиперссылки в документе.
