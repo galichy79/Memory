@@ -161,6 +161,7 @@ CDN, CI/CD, SSL
 4. Клонируем репозитории.
 
 ---
+[Скупка золота Киев](https://l-delta.com.ua/lom-zoloto/)
 
 
 
