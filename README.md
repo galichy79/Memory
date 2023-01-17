@@ -167,7 +167,7 @@ CDN, CI/CD, SSL
 
 
 
- 
+ [Про автоматизацию в фотографи](https://www.youtube.com/watch?v=wZsfRERSW3I)
 
 
 
