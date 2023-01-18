@@ -173,6 +173,13 @@ CDN, CI/CD, SSL
 
  [Основы Jupyter Notebook (Python)](https://www.youtube.com/watch?v=s0q2GpcYxo4&t=357s)
 
+ Установка Jupyter
+
+ python3 -m pip install jupyter
+
+ 
+ [Инструкция по Anaconda & Conda. Как управлять и настроить среду для Python?l](https://python.ivan-shamaev.ru/guide-conda-environments-anaconda-python-data-science-platform/)
+
 
 
 
