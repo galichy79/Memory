@@ -171,6 +171,8 @@ CDN, CI/CD, SSL
 
  [Про автоматизацию в фотографи](https://www.youtube.com/watch?v=wZsfRERSW3I)
 
+ [Основы Jupyter Notebook (Python)](https://www.youtube.com/watch?v=s0q2GpcYxo4&t=357s)
+
 
 
 
