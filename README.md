@@ -180,6 +180,16 @@ CDN, CI/CD, SSL
  
  [Инструкция по Anaconda & Conda. Как управлять и настроить среду для Python?l](https://python.ivan-shamaev.ru/guide-conda-environments-anaconda-python-data-science-platform/)
 
+  Настройка доступа к гитхабу
+
+  ---
+  
+  git config --global user.email "you@example.com"
+
+  git config --global user.name "Your Name"
+
+  ---
+
 
 
 
