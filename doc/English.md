@@ -7,3 +7,5 @@ You unlocked new Achievements with private contributions! Show them off by inclu
 Introduction - вступление.
 
 Access Denied - Доступ запрещен.
+
+pick the donut - пик зе донат - выбрать пончик
