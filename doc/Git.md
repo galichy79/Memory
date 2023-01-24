@@ -42,3 +42,9 @@ Host github.com
 [google/docsy](https://github.com/google/docsy)
 
 [Docsy](https://www.docsy.dev/about/)
+
+[rubyschool урок 20 установка и работа с Git
+установка Ungit на Windows]()
+
+Checkout - это получить. Можно утрировано сказать- что это получить код от куда-то. 
+Commit - это отправить. 
