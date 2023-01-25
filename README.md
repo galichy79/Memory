@@ -201,6 +201,12 @@ CDN, CI/CD, SSL
 
 [Migrating your Jekyll site to Netlify text](https://www.netlify.com/blog/2017/05/11/migrating-your-jekyll-site-to-netlify/?_ga=2.204292057.89732770.1674483073-595395532.1674483073)
 
+[Факторы ранжирования сайта статься](https://wezom.com.ua/blog/ranzhirovanie)
+
+"ctfmon"="CTFMON.EXE"
+
+[Стоимость домена](https://nic.ua/ru/domains/prices)
+
 
 
 
