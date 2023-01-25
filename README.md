@@ -207,6 +207,10 @@ CDN, CI/CD, SSL
 
 [Стоимость домена](https://nic.ua/ru/domains/prices)
 
+[Партнерская программа nic.ua по доменным именам](https://nic.ua/ru/rewards)
+
+[Tania Bezkorovaina youtube chanal](https://www.youtube.com/@-UAcontent-/videos)
+
 
 
 
