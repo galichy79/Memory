@@ -16,7 +16,11 @@ CLI - comand line interface
 
 `aws --version`
 
+security credentials -> create access key
+
 `aws configure`
+
+
 
 Default region name: eu-central-1
 
