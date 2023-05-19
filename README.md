@@ -1,6 +1,11 @@
 
 - ### [English](doc/English.md)
 
+
+- ### [Настройка компьютера после переустановки ОС](doc/settings.os/settings_os.md)
+
+- ### [Far2l](doc/Far2l.md)
+
 - ### [Job_vacancy](/doc/Job_vacancy.md)
 
 - ### [Git](/doc/Git.md)

@@ -1,3 +1,11 @@
+Hастройка логина в GitHub через SSH Key на Linux, написать инструкцию.
+
+https://www.youtube.com/watch?v=OwWZ5JgJneQ&t=201s
+
+---
+
+
+
 
 …or push an existing repository from the command line SSH
 

@@ -11,3 +11,5 @@ Access Denied - Доступ запрещен.
 pick the donut - пик зе донат - выбрать пончик
 
 contributors - участники
+
+enhanced - повышенный
