@@ -45,11 +45,11 @@
  ===========================
 
  BLOG
- -----
+ ---
 
 
 
- Смотри документацию  по venv [здесь](https://docs.python.org/3/library/venv.html?highlight=venv)
+ Смотри документацию  по venv [здесь](https://docs.python.org/3/library/venv.html?highlight=venv).
 
 
  1. Создаем папку DjangoProjects на диске С:\
@@ -74,6 +74,8 @@ venv/Scripts/Activate.ps1 - активируем на виндовз powershell
 `- Заложить основной план, его личный, для движения самостоятельно.`
 
 `- На выходе будет писать на любых языках.`
+
+[Flask: делаем простое веб приложение на Python (простой сайт)](https://www.youtube.com/watch?v=uyjp8nLGkmM).
 
 
 # Тут мы пишем все без разбора 

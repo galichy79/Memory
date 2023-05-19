@@ -48,6 +48,8 @@ Notebook Acer Nitro 5
 
 - [Как настроить VS Code для увеличеия продуктивности](https://techrocks.ru/2019/03/31/vs-code-customization/)
 
+- [Как быстро писать HTML без боли (Emmet)](https://www.youtube.com/watch?v=CEmjrxI9qh4)
+
 Вы можете использовать средство миграции Sass для автоматического обновления ваших таблиц стилей для использования math.div()и  list.slash().
 
 sudo apt install npm
