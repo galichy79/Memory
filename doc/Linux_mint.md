@@ -9,6 +9,8 @@
 
 - [Краткая шпаргалка по tmux (менеджеру терминалов)](https://habr.com/en/articles/126996/)
 
+- [tmux github](https://github.com/tmux/tmux)
+
 
 [far2l-deb](https://github.com/unxed/far2l-deb)
 
