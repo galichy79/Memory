@@ -5,6 +5,9 @@
 [Видеоинструкция по установке far2l](https://www.youtube.com/watch?v=ropU_mXYbg4&t=118s)
 ---
 
+- [Hotkeys Terminal](/doc/HotkeysTerminal.md)
+
+- [Краткая шпаргалка по tmux (менеджеру терминалов)](https://habr.com/en/articles/126996/)
 
 
 [far2l-deb](https://github.com/unxed/far2l-deb)
@@ -19,6 +22,9 @@ Ctrl + X - выйти из редактора
 [Переход с nano на Vim за 2 минуты](https://www.youtube.com/watch?v=IRZFsW6z5Vo)
 ---
 [Vi / Vim: основы](https://www.youtube.com/watch?v=6H0GDM8ExB8)
+---
+
+[VIM](https://rubydeploy.ru/vim/)
 ---
 
 

@@ -1,6 +1,16 @@
 Здесь будет все подряд
 
-# Memory
+GNU PG
+---
+`gpg --full-gen-key`
+`gpg -k` покажет публичные ключи
+`gpg -K` покажет все приватные ключи
+`gpg -e -a -r uzagal@proton.me 1.txt` зашифровать файл 1.txt
+`gpg -d -o 1.txt 1.txt.asc` расшифровать файл 1.txt
+
+
+---
+
 
 [AOMEI Partition Assistant](https://www.diskpart.com/) Перераспределить место на диске С:\ и D:\
 

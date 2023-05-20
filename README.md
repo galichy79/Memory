@@ -37,6 +37,8 @@
 
 - [s3 bucket polysy](https://github.com/InsightByte/GeneralTech/tree/main/Setup-Jekyll-on-AWS)
 
+- [Qtile](https://www.youtube.com/watch?v=Y1busy_dDRQ&t=721s)
+
 Notebook Acer Nitro 5
 ---
 - [Bootstrap Верстка современного сайта за 45 минут](https://www.youtube.com/watch?v=46q2eB7xvXA)
@@ -50,13 +52,9 @@ Notebook Acer Nitro 5
 
 - [Как быстро писать HTML без боли (Emmet)](https://www.youtube.com/watch?v=CEmjrxI9qh4)
 
-Вы можете использовать средство миграции Sass для автоматического обновления ваших таблиц стилей для использования math.div()и  list.slash().
+- [pass password manager](https://www.passwordstore.org/)
 
-sudo apt install npm
 
-sudo npm install -g sass-migrator
-
-sudo sass-migrator division **/*.scss
 
 
 为自由开路者，不可使其困顿于荆棘。 ...…
