@@ -1,4 +1,8 @@
-Hастройка логина в GitHub через SSH Key на Linux, написать инструкцию.
+Hастройка логина в GitHub через SSH Key на Linux
+1. ssh-keygen
+2. cat <путь/название публичного ключа>
+3. Копируем ключ и вставляем в гитхаб.
+
 
 https://www.youtube.com/watch?v=OwWZ5JgJneQ&t=201s
 
