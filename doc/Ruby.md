@@ -1,8 +1,11 @@
 
 
-Установка Ruby & Rails
+Установка Ruby & Rails Linux Mint
 1. `sudo  apt-get install ruby-full`
 2. `gem install rails`
+
+Установка Ruby Arch Linux
+`sudo pacman -s ruby` This should install the latest stable Ruby version.
 
 
 [Конспект курса по руби Романа Пушкина](https://github.com/krdprog/rubyschool-notes/blob/master/one-by-one/lesson-01.md)
