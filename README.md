@@ -1,6 +1,11 @@
 
 - ### [English](doc/English.md)
 
+- ### [Ruby](doc/Ruby.md)
+
+- ### [Rails](doc/Rails.md)
+
+
 
 - ### [Настройка компьютера после переустановки ОС](doc/settings.os/settings_os.md)
 
@@ -39,6 +44,17 @@
 
 - [Qtile](https://www.youtube.com/watch?v=Y1busy_dDRQ&t=721s)
 
+- [Disable Alt + F1 keyboard shortcut in Cinnamon](https://superuser.com/questions/531874/disable-alt-f1-keyboard-shortcut-in-cinnamon)
+
+- [frogmouth программа для просмотра .md файлов в консоли](https://github.com/Textualize/frogmouth)
+
+
+
+
+
+
+
+- [Эффективная работа в Midnight Commander](https://www.youtube.com/watch?v=CEp2-G3HQ_s)
 Notebook Acer Nitro 5
 ---
 - [Bootstrap Верстка современного сайта за 45 минут](https://www.youtube.com/watch?v=46q2eB7xvXA)

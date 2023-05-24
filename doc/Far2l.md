@@ -20,3 +20,7 @@
 `sudo make install`
 
 `sudo ldconfig`
+
+- [Far2L статья на opensource.com](https://opensource.com/article/22/12/linux-file-manager-far2l)
+
+- [Shortcuts в Linux](https://habr.com/ru/articles/23523/)

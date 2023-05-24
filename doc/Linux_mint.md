@@ -11,6 +11,8 @@
 
 - [tmux github](https://github.com/tmux/tmux)
 
+- [tmux инструкция на русском](https://habr.com/en/companies/selectel/articles/209130/)
+
 
 [far2l-deb](https://github.com/unxed/far2l-deb)
 

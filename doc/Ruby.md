@@ -1,5 +1,10 @@
 
 
+Установка Ruby & Rails
+1. `sudo  apt-get install ruby-full`
+2. `gem install rails`
+
+
 [Конспект курса по руби Романа Пушкина](https://github.com/krdprog/rubyschool-notes/blob/master/one-by-one/lesson-01.md)
 ---
 
