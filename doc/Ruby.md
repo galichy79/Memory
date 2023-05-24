@@ -11,4 +11,4 @@ require - Этот метод подгружает руби-код из внеш
 
 Последняя конструкция слишком громоздкая (дополнительная переменная, пара строк кода) и некрасивая (точки, слеши, склейка строк) . Поэтому придумали reuquire_relative. Он делает то же самое: ищет файл для подключения относительно той папки, в которой лежит основная программа (а не той, в которой мы программу запускаем):
 
-sudo apt-get update 
+[How To Install Ruby on Rails version 7 on Manjaro Linux with RVM](https://medium.com/@faturr/how-to-install-ruby-on-rails-version-7-on-manjaro-linux-with-rvm-7a0cde49f415)
