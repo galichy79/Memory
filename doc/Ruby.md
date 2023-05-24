@@ -1,5 +1,16 @@
 
 
+[Установка rvm](https://github.com/rvm/ubuntu_rvm)
+
+RVM
+---
+`rvm install 2.1`
+`rvm use 2.1`
+`ruby -v`
+`which ruby`
+`rvm use 2.1 --default`
+
+
 Установка Ruby & Rails Linux Mint
 1. `sudo  apt-get install ruby-full`
 2. `gem install rails`
