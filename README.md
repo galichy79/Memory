@@ -5,6 +5,9 @@
 
 - ### [Rails](doc/Rails.md)
 
+- ### [Heroku](doc/Heroku.md)
+
+
 
 
 - ### [Настройка компьютера после переустановки ОС](doc/settings.os/settings_os.md)
