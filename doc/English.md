@@ -234,3 +234,64 @@ Let's add a typical implementation of these actions to app/controllers/articles_
 Давайте добавим типичную реализацию этих действий в app/controllers/articles_controller.rb под действием создания:
 Notice how the edit and update actions resemble the new and create actions.
 Обратите внимание, как действия редактирования и обновления напоминают действия создания и создания.
+
+The edit action fetches the article from the database, and stores it in @article so that it can be used when building the form. 
+Действие редактирования извлекает статью из базы данных и сохраняет ее в @article, чтобы ее можно было использовать при построении формы.
+By default, the edit action will render app/views/articles/edit.html.erb.
+По умолчанию действие редактирования отобразит app/views/articles/edit.html.erb.
+The update action (re-)fetches the article from the database, and attempts to update it with the submitted form data filtered by article_params. 
+Действие обновления (повторно) извлекает статью из базы данных и пытается обновить ее с помощью отправленных данных формы, отфильтрованных с помощью article_params.
+If no validations fail and the update is successful, the action redirects the browser to the article's page. 
+Если никакие проверки не завершаются неудачно и обновление выполнено успешно, действие перенаправляет браузер на страницу статьи.
+Else, the action redisplays the form — with error messages — by rendering app/views/articles/edit.html.erb.
+В противном случае действие повторно отображает форму — с сообщениями об ошибках — путем рендеринга app/views/articles/edit.html.erb.
+7.4.1 Using Partials to Share View Code
+7.4.1 Использование Partials для совместного использования кода просмотра
+Our edit form will look the same as our new form. 
+Наша форма редактирования будет выглядеть так же, как наша новая форма.
+Even the code will be the same, thanks to the Rails form builder and resourceful routing. 
+Даже код будет таким же благодаря конструктору форм Rails и находчивой маршрутизации.
+The form builder automatically configures the form to make the appropriate kind of request, based on whether the model object has been previously saved.
+Конструктор форм автоматически настраивает форму для выполнения запроса соответствующего типа в зависимости от того, был ли ранее сохранен объект модели.
+Because the code will be the same, we're going to factor it out into a shared view called a partial. 
+Поскольку код будет таким же, мы собираемся выделить его в общее представление, называемое частичным.
+Let's create app/views/articles/_form.html.erb with the following contents:
+Создадим app/views/articles/_form.html.erb со следующим содержимым:
+The above code is the same as our form in app/views/articles/new.html.erb, except that all occurrences of @article have been replaced with article.
+Приведенный выше код аналогичен нашей форме в app/views/articles/new.html.erb, за исключением того, что все вхождения @article заменены на article.
+Because partials are shared code, it is best practice that they do not depend on specific instance variables set by a controller action.
+Поскольку частичные фрагменты являются общим кодом, рекомендуется, чтобы они не зависели от конкретных переменных экземпляра, установленных действием контроллера.
+Instead, we will pass the article to the partial as a local variable.
+Вместо этого мы передадим статью в партиал как локальную переменную.
+Let's update app/views/articles/new.html.erb to use the partial via render:
+Давайте обновим app/views/articles/new.html.erb, чтобы использовать партиал через рендеринг:
+A partial's filename must be prefixed with an underscore, e.g. _form.html.erb. But when rendering, it is referenced without the underscore, e.g. render "form".
+Имя частичного файла должно начинаться с символа подчеркивания, например. _form.html.erb. Но при рендеринге на него ссылаются без подчеркивания, например. сделать "форму".
+And now, let's create a very similar app/views/articles/edit.html.erb:
+А теперь давайте создадим очень похожее приложение/views/articles/edit.html.erb:
+7.4.2 Finishing Up
+7.4.2 Завершение
+We can now update an article by visiting its edit page, e.g. http://localhost:3000/articles/1/edit.
+Теперь мы можем обновить статью, посетив ее страницу редактирования, например. http://localhost:3000/articles/1/edit.
+To finish up, let's link to the edit page from the bottom of app/views/articles/show.html.erb:
+7.5 Deleting an Article
+Finally, we arrive at the "D" (Delete) of CRUD. 
+Наконец, мы приходим к «D» (Удалить) CRUD.
+Deleting a resource is a simpler process than creating or updating. It only requires a route and a controller action. 
+Удаление ресурса — более простой процесс, чем создание или обновление. Для этого требуется только маршрут и действие контроллера.
+And our resourceful routing (resources :articles) already provides the route, which maps DELETE /articles/:id requests to the destroy action of ArticlesController.
+И наша находчивая маршрутизация (resources :articles) уже обеспечивает маршрут, который сопоставляет запросы DELETE /articles/:id с действием уничтожения ArticlesController.
+So, let's add a typical destroy action to app/controllers/articles_controller.rb, below the update action:
+Итак, давайте добавим типичное действие уничтожения в app/controllers/articles_controller.rb под действием обновления:
+The destroy action fetches the article from the database, and calls destroy on it. Then, it redirects the browser to the root path with status code 303 See Other.
+Действие уничтожения извлекает статью из базы данных и вызывает для нее уничтожение. Затем он перенаправляет браузер на корневой путь с кодом состояния 303 See Other.
+We have chosen to redirect to the root path because that is our main access point for articles.
+Мы решили перенаправить на корневой путь, потому что это наша основная точка доступа к статьям.
+But, in other circumstances, you might choose to redirect to e.g. articles_path.
+Но в других обстоятельствах вы можете перенаправить, например, на статьи_путь.
+Now let's add a link at the bottom of app/views/articles/show.html.erb so that we can delete an article from its own page:
+Теперь добавим ссылку внизу app/views/articles/show.html.erb, чтобы мы могли удалить статью с ее собственной страницы:
+In the above code, we use the data option to set the data-turbo-method and data-turbo-confirm HTML attributes of the "Destroy" link.
+В приведенном выше коде мы используем параметр данных для установки HTML-атрибутов data-turbo-method и data-turbo-confirm ссылки «Уничтожить».
+ Both of these attributes hook into Turbo, which is included by default in fresh Rails applications.
+Оба этих атрибута подключаются к Turbo, который по умолчанию включен в новые приложения Rails.
