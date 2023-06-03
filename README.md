@@ -1,5 +1,4 @@
 
-- ### [English](doc/English.md)
 
 - ### [Ruby](doc/Ruby.md)
 

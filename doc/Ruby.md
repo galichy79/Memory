@@ -10,6 +10,17 @@ RVM
 `which ruby`
 `rvm use 2.1 --default`
 
+---
+На старых версиях руби нужен ssl 1.0
+`wget https://www.openssl.org/source/old/1.1.0/openssl-1.1.0g.tar.gz`
+`tar xzvf openssl-1.0.2l.tar.gz`
+`cd openssl-1.0.2l`
+`./config`
+make
+`sudo make install`
+ 
+`openssl version -a`
+
 
 Установка Ruby & Rails Linux Mint
 1. `sudo  apt-get install ruby-full`
