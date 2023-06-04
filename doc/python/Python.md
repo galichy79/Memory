@@ -30,15 +30,13 @@
 ### 3. Программное обеспечение для начала работы.
 
 
-### 4. Домашние задания.
+### 4. Как получить requirements.txt
 
- Установить питон.
- Среда разработки vs code.
- Создать файл gitignore.
+ `pip freeze > requirements.txt`
+ `pip install -r requirements.txt`
+ `python manage.py migrate`
 
- Как стереть сразу всю строку в vs code?
-
- Конвертирование из markdown в docx.
+ [Anaconda](/doc/Anaconda.md)
 
  
  СОЗДАНИЕ ПРОЕКТА НА DJANGO
@@ -84,7 +82,7 @@ venv/Scripts/Activate.ps1 - активируем на виндовз powershell
 
 
 - [markdown напиши README за две минуты видос](https://www.youtube.com/watch?v=FFBTGdEMrQ4)
-- [просто ссылка с заглушкой](#Тут)-
+
 - [Закон про мобінг](https://ua.korrespondent.net/articles/4547436-shtrafy-za-mobinh-yak-zakon-zakhystyt-pratsivnyka-vid-tskuvannia)
 
 - [Вимоги МВФ для надання кредитів Україні](https://ua.korrespondent.net/articles/4547478-mvf-vysunuv-umovy-do-ukrainy-dlia-nadannia-kredytiv)

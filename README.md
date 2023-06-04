@@ -39,6 +39,8 @@
 [Заметки](/doc/vse/vse.md)
 ===
 
+- [Установить pgadmin na Linux mint 21](https://stackoverflow.com/questions/68777587/linux-mint-20-x-ubuntu-based-cant-install-pgadmin4)
+
 - [20 Полезных сочетаний клавиш для VS Code](https://highload.today/sdelaem-eto-po-bystromu-20-poleznyh-sochetanij-klavish-dlya-vs-code/)
 - [Установка LinuxBrew](https://www.8host.com/blog/ustanovka-i-ispolzovanie-linuxbrew-na-servere-linux/)
 
