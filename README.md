@@ -13,6 +13,8 @@
 
 - ### [Far2l](doc/Far2l.md)
 
+- ### [Ranger](doc/Ranger.md)
+
 - ### [Job_vacancy](/doc/Job_vacancy.md)
 
 - ### [Git](/doc/Git.md)
