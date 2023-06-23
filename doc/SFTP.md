@@ -1,0 +1,1 @@
+- [SFTP](https://www.digitalocean.com/community/tutorials/sftp-ru)

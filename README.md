@@ -15,6 +15,12 @@
 
 - ### [Ranger](doc/Ranger.md)
 
+- ### [](doc/Ranger.md)
+
+- ### [SFTP](doc/SFTP.md)
+
+- ### [Tmux](doc/Tmux.md)
+
 - ### [Job_vacancy](/doc/Job_vacancy.md)
 
 - ### [Git](/doc/Git.md)
@@ -40,6 +46,9 @@
 ---
 [Заметки](/doc/vse/vse.md)
 ===
+
+- []()
+- [A sysadmin's guide to Bash scripting](https://opensource.com/downloads/bash-scripting-ebook?intcmp=701f20000012ngPAAQ)
 
 - [Установить pgadmin na Linux mint 21](https://stackoverflow.com/questions/68777587/linux-mint-20-x-ubuntu-based-cant-install-pgadmin4)
 
