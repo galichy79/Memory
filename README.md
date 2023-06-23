@@ -17,6 +17,8 @@
 
 - ### [](doc/Ranger.md)
 
+- ### [Django deploy](doc/Django.md)
+
 - ### [SFTP](doc/SFTP.md)
 
 - ### [Tmux](doc/Tmux.md)
