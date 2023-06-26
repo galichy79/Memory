@@ -70,7 +70,6 @@
 - [Эффективная работа в Midnight Commander](https://www.youtube.com/watch?v=CEp2-G3HQ_s)
 Notebook Acer Nitro 5
 ---
-- [Bootstrap Верстка современного сайта за 45 минут](https://www.youtube.com/watch?v=46q2eB7xvXA)
 
 - [Смотреть как огранизовано хранилище у Фернандо](https://github.com/android10)
 
@@ -188,14 +187,6 @@ CDN, CI/CD, SSL
 
 [Installing Jupyter официальный сайт](https://jupyter.org/install.html)
 
-Доступ по ssh к гитхаб на виндовз
-
----
-1. Git Bash
-2. ssh-keygen
-3. Копируем побличный ключ на гитхаб
-4. Клонируем репозитории.
-
 ---
 [Скупка золота Киев](https://l-delta.com.ua/lom-zoloto/)
 
@@ -214,10 +205,8 @@ CDN, CI/CD, SSL
  
  [Инструкция по Anaconda & Conda. Как управлять и настроить среду для Python?l](https://python.ivan-shamaev.ru/guide-conda-environments-anaconda-python-data-science-platform/)
 
-  Настройка доступа к гитхабу
-
-  ---
-  
+  ### Настройка доступа к гитхабу
+ 
   git config --global user.email "you@example.com"
 
   git config --global user.name "Your Name"
