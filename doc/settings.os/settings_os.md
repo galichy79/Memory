@@ -1,10 +1,9 @@
 [Настройка компьютера после переустановки OS](#)
 ---
 
-<<<<<<< HEAD
-=======
 
->>>>>>> cf99fe05f8a7bf0eb48c1f61a27f9a1367d01682
+
+
 - [Оновлення Linux Mint 21 beta, розкладка клавіатури, локальне дзеркало, налаштування WiFi, браузер](https://www.youtube.com/watch?v=TGnMxkSTEQU)
 
 
@@ -17,7 +16,6 @@
 
 - [Signal](https://www.signal.org/download/)
 
-Текст рыба
 
 [FarRus.hlf.m4](https://github.com/elfmz/far2l/blob/master/far2l/bootstrap/scripts/FarRus.hlf.m4)
 ---

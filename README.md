@@ -1,5 +1,5 @@
 
-
+- ### [Hotkeys](doc/HotkeysTerminal.md)
 - ### [Ruby](doc/Ruby.md)
 
 - ### [Rails](doc/Rails.md)
