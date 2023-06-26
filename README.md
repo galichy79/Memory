@@ -29,8 +29,6 @@
 
 - ### [Jekyll](/doc/Jekyll.md)
 
-- ### [Юриспруденция](/doc/%D0%AE%D1%80%D0%B8%D1%81%D0%BF%D1%80%D1%83%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D1%8F/%D0%AE%D1%80%D0%B8%D1%81%D0%BF%D1%80%D1%83%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D1%8F.md)
-
 - ### [Д.С. Кулябов](https://yamadharma.github.io/ru/)
 
 - ### [Linux](/doc/Linux_mint.md)
