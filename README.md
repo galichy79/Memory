@@ -23,8 +23,6 @@
 
 - ### [Tmux](doc/Tmux.md)
 
-- ### [Job_vacancy](/doc/Job_vacancy.md)
-
 - ### [Git](/doc/Git.md)
 
 - ### [Hugo](/doc/Hugo.md)
