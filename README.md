@@ -6,16 +6,11 @@
 
 - ### [Heroku](doc/Heroku.md)
 
-
-
-
 - ### [Настройка компьютера после переустановки ОС](doc/settings.os/settings_os.md)
 
 - ### [Far2l](doc/Far2l.md)
 
 - ### [Ranger](doc/Ranger.md)
-
-- ### [](doc/Ranger.md)
 
 - ### [Django deploy](doc/Django.md)
 
@@ -36,9 +31,6 @@
 - ### [AWS](/doc/AWS.md)
 
 - ### [Python](/doc/python/Python.md)
-
-
-
 
 
 ---
@@ -63,10 +55,6 @@
 
 
 
-
-
-
-
 - [Эффективная работа в Midnight Commander](https://www.youtube.com/watch?v=CEp2-G3HQ_s)
 Notebook Acer Nitro 5
 ---
@@ -81,7 +69,6 @@ Notebook Acer Nitro 5
 - [Как быстро писать HTML без боли (Emmet)](https://www.youtube.com/watch?v=CEmjrxI9qh4)
 
 - [pass password manager](https://www.passwordstore.org/)
-
 
 
 
