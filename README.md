@@ -38,6 +38,9 @@
 ===
 
 - []()
+
+- [Приключения бравого солдата Швейка](https://www.youtube.com/watch?v=jR4a1sdgi6E&t=1892s)
+
 - [A sysadmin's guide to Bash scripting](https://opensource.com/downloads/bash-scripting-ebook?intcmp=701f20000012ngPAAQ)
 
 - [Установить pgadmin na Linux mint 21](https://stackoverflow.com/questions/68777587/linux-mint-20-x-ubuntu-based-cant-install-pgadmin4)
