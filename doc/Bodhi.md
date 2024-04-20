@@ -1,0 +1,1 @@
+- [Moksha Desktop FAQs](https://www.bodhilinux.com/w/moksha-desktop-faqs/)

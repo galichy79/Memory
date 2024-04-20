@@ -28,6 +28,8 @@
 
 - ### [Linux](/doc/Linux_mint.md)
 
+- ### [Bodhi Linux](/doc/Bodhi.md)
+
 - ### [AWS](/doc/AWS.md)
 
 - ### [Python](/doc/python/Python.md)
