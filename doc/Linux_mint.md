@@ -1,5 +1,5 @@
 [3 способа установить deb файлы на Ubuntu Linux
-Источник: https://linuxinsider.ru/deb-ubuntu-linux](https://linuxinsider.ru/deb-ubuntu-linux/)
+](https://linuxinsider.ru/deb-ubuntu-linux/)
 
 [far2l  установил отсюда](https://github.com/elfmz/far2l)
 
