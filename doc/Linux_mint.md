@@ -1,7 +1,10 @@
-[3 способа установить deb файлы на Ubuntu Linux
+- [3 способа установить deb файлы на Ubuntu Linux
 ](https://linuxinsider.ru/deb-ubuntu-linux/)
 
-[far2l  установил отсюда](https://github.com/elfmz/far2l)
+
+- [far2l  установил отсюда](https://github.com/elfmz/far2l)
+
+- [Systemd — управление автозагрузкой служб в Linux](https://dzen.ru/a/YDZEy6My3XNziVck)
 
 [Видеоинструкция по установке far2l](https://www.youtube.com/watch?v=ropU_mXYbg4&t=118s)
 ---

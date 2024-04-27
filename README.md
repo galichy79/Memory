@@ -34,6 +34,10 @@
 
 - ### [Python](/doc/python/Python.md)
 
+- ### [PostgreSQL](/doc/PostgreSQL.md)
+
+- ### [Vagrant](/doc/Vagrant.md)
+
 
 ---
 [Заметки](/doc/vse/vse.md)

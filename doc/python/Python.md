@@ -1,12 +1,5 @@
 
-
-
-`* Читать код.`
-
-`* Писать код.`
-
 `* Иметь эффективную систему работы с кодом.`
-
 
 
 ### 1. С чего начать?
@@ -14,11 +7,9 @@
 Переменные.
 Типы данных.
 
-
 **`Каков должен быть результат на этом этапе?`**
 
 Видеть переменные в коде.
-
 
 
 ### 2. Система работы с кодом. 
@@ -27,13 +18,26 @@
 
 - Идти через исключения.
 
-### 3. Программное обеспечение для начала работы.
+### Создание виртуального окружения
 
+  `sudo apt update`
+  `sudo apt install python3 python3-venv python3-pip`
 
-### 4. Как получить requirements.txt
+  `python3 -m venv venv`
+
+Activate the Virtual Environment
+
+`source venv/bin/activate`
+
+Deactivate the Virtual Environment
+
+`deactivate`
+
+### Как получить requirements.txt
 
  `pip freeze > requirements.txt`
  `pip install -r requirements.txt`
+ 
  `python manage.py migrate`
 
  [Anaconda](/doc/Anaconda.md)
