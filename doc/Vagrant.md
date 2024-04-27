@@ -26,3 +26,6 @@ Vagrant дает быстрое развертывание среды разра
 
 
 (Vagrant)[https://app.vagrantup.com/ubuntu/boxes/trusty64]
+
+(A Virtual Machine for Ruby on Rails Core Development)[https://github.com/rails/rails-dev-box]
+(Using Vagrant for Rails Development)[https://gorails.com/guides/using-vagrant-for-rails-development]
