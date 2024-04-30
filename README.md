@@ -38,6 +38,8 @@
 
 - ### [Vagrant](/doc/Vagrant.md)
 
+- ### [React](/doc/React.md)
+
 
 ---
 [Заметки](/doc/vse/vse.md)
