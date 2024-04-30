@@ -40,6 +40,8 @@
 
 - ### [React](/doc/React.md)
 
+- ### [DRAKON](/doc/DRAKON.md)
+
 
 ---
 [Заметки](/doc/vse/vse.md)
