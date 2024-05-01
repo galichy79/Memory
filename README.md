@@ -29,9 +29,19 @@
 
 - ### [Linux](/doc/Linux_mint.md)
 
+- ### [Bodhi Linux](/doc/Bodhi.md)
+
 - ### [AWS](/doc/AWS.md)
 
 - ### [Python](/doc/python/Python.md)
+
+- ### [PostgreSQL](/doc/PostgreSQL.md)
+
+- ### [Vagrant](/doc/Vagrant.md)
+
+- ### [React](/doc/React.md)
+
+- ### [DRAKON](/doc/DRAKON.md)
 
 
 ---
@@ -39,6 +49,11 @@
 ===
 
 - []()
+
+- [How To Put An Icons On Website Using Html, Css and FontAwesome Icons | Step by Step Tutorial](https://youtu.be/wZo_glzblmI)
+
+- [Приключения бравого солдата Швейка](https://www.youtube.com/watch?v=jR4a1sdgi6E&t=1892s)
+
 - [A sysadmin's guide to Bash scripting](https://opensource.com/downloads/bash-scripting-ebook?intcmp=701f20000012ngPAAQ)
 
 - [Установить pgadmin na Linux mint 21](https://stackoverflow.com/questions/68777587/linux-mint-20-x-ubuntu-based-cant-install-pgadmin4)
