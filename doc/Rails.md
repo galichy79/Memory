@@ -17,6 +17,10 @@
 - [Аутентификация в Rails-приложениях с помощью Devise. Часть 1: базовая настройка](https://habr.com/ru/articles/208056/)
 - [devise](https://github.com/heartcombo/devise)
 
+- [Ловушка CMS](https://habr.com/ru/articles/229099/)
+
+- [Stimulus 1.0: скромный JavaScript фреймворк для HTML, который у вас уже есть](https://habr.com/ru/articles/346132/)
+
 ### Установка ninja
 
 `ninja --version`
@@ -26,4 +30,8 @@
 ### Rails-style-guide
 
 [Rails-style-guide(RU)](https://github.com/arbox/rails-style-guide/blob/master/README-ruRU.md)
+
+[https://sustainable-rails.com/](https://sustainable-rails.com/)
+
+[gem dotenv how to use video](https://www.youtube.com/watch?v=JvhIoQjezRs)
 
