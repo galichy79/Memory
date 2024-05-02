@@ -41,3 +41,7 @@
 [Rails для продвинутых: организация кода (Иван Немытченко)](https://www.youtube.com/watch?v=Ae19vpQ14jw)
 
 [Environment Variables with Ruby on Rails](https://www.youtube.com/watch?v=O-aDLsuNTRY&t=440s)
+
+[Ruby on Rails #33 Gem Dotenv - alternative to Rails credentials](https://www.youtube.com/watch?v=AFdd3VdKA8o&t=381s)
+
+[Learn Ruby on Rails - Full Course](https://www.youtube.com/watch?v=fmyvWz5TUWg&t=262s)
