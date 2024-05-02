@@ -35,3 +35,9 @@
 
 [gem dotenv how to use video](https://www.youtube.com/watch?v=JvhIoQjezRs)
 
+[как создать приложение на старых рельсах](https://www.youtube.com/watch?v=1hoLN25sfJk)
+
+
+[Rails для продвинутых: организация кода (Иван Немытченко)](https://www.youtube.com/watch?v=Ae19vpQ14jw)
+
+[Environment Variables with Ruby on Rails](https://www.youtube.com/watch?v=O-aDLsuNTRY&t=440s)
