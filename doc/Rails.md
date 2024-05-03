@@ -45,3 +45,13 @@
 [Ruby on Rails #33 Gem Dotenv - alternative to Rails credentials](https://www.youtube.com/watch?v=AFdd3VdKA8o&t=381s)
 
 [Learn Ruby on Rails - Full Course](https://www.youtube.com/watch?v=fmyvWz5TUWg&t=262s)
+
+[Ruby on Rails 6.* - Урок 11. Аутентификация через социальные сети. OAUTH. Часть 1.](https://www.youtube.com/watch?v=YvGxAt9OVeE)
+
+[Environment Variables (.env) with Ruby](https://www.youtube.com/watch?v=KRzt_vTZaLQ)
+
+[Конфигурация веб-приложения. Новый подход](https://www.youtube.com/watch?v=lUo5z1HhwcY)
+
+[Ruby on Rails Tutorial (3-е издание)](https://www.softcover.io/read/db8803f7/ruby_on_rails_tutorial_3rd_edition_russian/beginning)
+
+[Фронтенд на рельсах (почти) без JS](https://habr.com/ru/articles/590381/)
