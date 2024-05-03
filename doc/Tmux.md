@@ -1,4 +1,3 @@
-- []()
 
 - [tmux](https://www.redhat.com/sysadmin/introduction-tmux-linux)
 
