@@ -69,3 +69,21 @@ Turbo заменит уже существующую Turbolinks.
     Turbo Streams - другой тип фреймов, который обновляется в результате HTTP запроса или с помощью сервера через Websocket. 
 
     Turbo Native - обёртка вашего “турбированного” веб-приложения, которая интегрирует его в мобильное приложение.
+
+
+[500+ вопросов на собеседовании по Ruby](https://itvdn.com/ru/blog/article/ruby-500-questions)
+
+[Співбесіда з Ruby. 500+ запитань для Junior, Middle, Senior](https://dou.ua/lenta/articles/interview-questions-ruby-developer/)
+
+```
+bundle install
+yarn install
+```
+
+[The Asset Pipeline](https://guides.rubyonrails.org/asset_pipeline.html)
+
+[Dart Sass for Rails](https://github.com/rails/dartsass-rails)
+
+---
+
+[Поиск по сайту](https://pagefind.app/)

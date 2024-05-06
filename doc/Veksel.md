@@ -1,0 +1,1 @@
+[Барац С.М. Курс вексельного права в связи с учением о векселях и вексельных операциях. Спб., 1893.](https://minfin.gov.ru/ru/document?id_4=131212-barats_s.m._kurs_vekselnogo_prava_v_svyazi_s_ucheniem_o_vekselyakh_i_vekselnykh_operatsiyakh._spb._1893)

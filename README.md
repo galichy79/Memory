@@ -39,11 +39,17 @@
 
 - ### [Vagrant](/doc/Vagrant.md)
 
-- ### [React](/doc/React.md)
+- ### [React and JS](/doc/React_and_JS.md)
 
 - ### [DRAKON](/doc/DRAKON.md)
 
 - ### [Verstka](/doc/Verstka.md)
+
+- ### [Sustainable_Web_Development](/doc/Sustainable_Web_Development.md)
+
+- ### [Beginning Rails 6](/doc/Beginning_Rails_6.md)
+
+- ### [Veksel](/doc/Veksel.md)
 
 
 ---
