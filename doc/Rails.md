@@ -4,6 +4,44 @@
 `bin/rails s`
 `rails generate controller home index`
 
+# Создание приложения Rails
+
+### Prerequisites
+- Ryby
+- SQLite3
+- Nose.js
+- [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable)
+
+- [https://guides.rubyonrails.org/](https://guides.rubyonrails.org/)
+
+- rbenv
+- [https://github.com/nodejs/node-gyp](https://github.com/nodejs/node-gyp)
+- [https://rubygems.org/](https://rubygems.org/)
+
+```
+gem update --system
+```
+```
+rails new AskIt -T -j webpack --css bootstrap --skip-hotwire
+```
+### Запускаем приложение
+
+```
+bin/dev
+```
+### Глава 2
+[Мини приложение](https://www.softcover.io/read/db8803f7/ruby_on_rails_tutorial_3rd_edition_russian/toy_app)
+
+---
+
+REST-архитектуры, предпочитаемой Rails.
+
+миниатюрное будет состоять из пользователей и связанных с ними микросообщений (like a Twitter).
+
+
+
+---
+
 - [Аутентификация в rails-приложениях через facebook, vkontakte](https://habr.com/ru/articles/142128/)
 
 - [Irwi — Wiki в Rails-приложениях](https://habr.com/ru/articles/68235/)
@@ -87,3 +125,8 @@ yarn install
 ---
 
 [Поиск по сайту](https://pagefind.app/)
+
+[Adding search to a static Jekyll site using pagefind ](https://jay.gooby.org/2023/07/04/adding-search-to-a-static-site-using-pagefind)
+
+[Conner Jensen](https://www.youtube.com/@connerjensen8170/videos)
+---
