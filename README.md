@@ -51,6 +51,8 @@
 
 - ### [Veksel](/doc/Veksel.md)
 
+- ### [Sud](/doc/Sud.md)
+
 
 ---
 [Заметки](/doc/vse/vse.md)
