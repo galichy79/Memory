@@ -130,3 +130,7 @@ yarn install
 
 [Conner Jensen](https://www.youtube.com/@connerjensen8170/videos)
 ---
+
+# Методы оплаты 
+
+[pay](https://github.com/pay-rails/pay) Есть Fake processor used for generic trials without cards, free subscriptions, testing, etc.
