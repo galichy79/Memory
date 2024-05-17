@@ -129,7 +129,25 @@ yarn install
 [Adding search to a static Jekyll site using pagefind ](https://jay.gooby.org/2023/07/04/adding-search-to-a-static-site-using-pagefind)
 
 [Conner Jensen](https://www.youtube.com/@connerjensen8170/videos)
+
 ---
+
+[clearbnb](https://www.youtube.com/playlist?list=PLS6F722u-R6LoD3UN0EE_cKtHVG2EWn0t)
+
+
+# Заметки
+`bin/webpack-dev-server`
+
+#### Обновить зависимости
+Если в package.json имеется сторока 
+"dependencies": {
+
+}, то используется npm
+
+`npm update`
+
+
+
 
 # Методы оплаты 
 
