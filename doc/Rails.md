@@ -29,6 +29,54 @@ rails new AskIt -T -j webpack --css bootstrap --skip-hotwire
 ```
 bin/dev
 ```
+
+# Учебное приложение Twitter
+
+```
+rails new Twitter -T -j webpack -css bootstrap --skip-hotwire
+```
+
+### Добавляем Devise
+
+[devise#getting-started](https://github.com/heartcombo/devise#getting-started)
+
+###  Генерируем модель пользователя и в ней будет и пароль и емейл и т.д.
+
+
+
+
+- дописываем в Gemfile строчку gem "devise"
+- bundle 
+```
+rails generate devise:install
+```
+
+```
+rails g devise User
+```
+
+```
+rails db:migrate
+```
+
+### Делаем микропостс
+
+```
+rails generate scaffold Micropost content:text user_id:integer
+```
+```
+rails db:migrate
+```
+Наша задача заключается в том, чтобы можно было просматривать статьи, но нельзя было их создавать без авторизации.
+
+### Блокирование доступа к контроллеру Microposts
+```
+before_action :authenticate_user!
+```
+
+
+
+
 ### Глава 2
 [Мини приложение](https://www.softcover.io/read/db8803f7/ruby_on_rails_tutorial_3rd_edition_russian/toy_app)
 
