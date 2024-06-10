@@ -92,3 +92,7 @@
 [статті 23 Закону України “Про мобілізаційну підготовку та мобілізацію”](https://zakon.rada.gov.ua/laws/show/3543-12#n420)
 
 [Сколько стоит адвокат по уголовным делам?](https://criminal-advokat-kiev.com.ua/ru/tseny/?gad_source=1&gclid=CjwKCAjwi_exBhA8EiwA_kU1Mrs4xveBhrQvIkm0hGJKFtoAPpmYiVvzRY_XBOt4TuP5-PxZzMbuDRoCuw8QAvD_BwE)
+
+### ЧИ можна відправити ПОШТОЮ заяву про надання ВІДСТРОЧКИ до ТЦК та СП⁉️
+
+[Рішення суду](https://reyestr.court.gov.ua/Review/115755979)

@@ -1,5 +1,8 @@
 
-- ### [Hotkeys](doc/HotkeysTerminal.md)
+
+
+
+- ### [Ansible](doc/Ansible.md)
 
 - ### [Ruby](doc/Ruby.md)
 
@@ -49,9 +52,15 @@
 
 - ### [Beginning Rails 6](/doc/Beginning_Rails_6.md)
 
+- ### [Terminal](/doc/Terminal.md)
+
 - ### [Veksel](/doc/Veksel.md)
 
+
+
 - ### [Sud](/doc/Sud.md)
+
+- ### [Американские поэты](/doc/poetry.md)
 
 
 ---
