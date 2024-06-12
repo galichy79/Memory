@@ -62,6 +62,8 @@
 
 - ### [Американские поэты](/doc/poetry.md)
 
+- ### [Scraping](/doc/scraping)
+
 
 ---
 [Заметки](/doc/vse/vse.md)
