@@ -62,7 +62,7 @@
 
 - ### [Американские поэты](/doc/poetry.md)
 
-- ### [Scraping](/doc/scraping)
+- ### [Scraping](/doc/scraping.md)
 
 
 ---
