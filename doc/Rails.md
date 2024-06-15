@@ -183,6 +183,18 @@ yarn install
 [clearbnb](https://www.youtube.com/playlist?list=PLS6F722u-R6LoD3UN0EE_cKtHVG2EWn0t)
 
 
+# Dotenv
+
+https://github.com/bkeepers/dotenv
+
+[Видеоинструкция](https://www.youtube.com/watch?v=Re0OYhw0GUY)
+
+
+
+
+
+---
+
 # Заметки
 `bin/webpack-dev-server`
 

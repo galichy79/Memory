@@ -4,6 +4,8 @@
 
 - ### [Ansible](doc/Ansible.md)
 
+- ### [Bible](doc/Bible.md)
+
 - ### [Ruby](doc/Ruby.md)
 
 - ### [Rails](doc/Rails.md)
