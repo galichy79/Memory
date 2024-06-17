@@ -1,4 +1,10 @@
 
+https://www.learnenough.com/ruby-on-rails-7th-edition
+
+http://railscasts.com/
+
+https://replit.com/
+https://www.digitalocean.com/community/tutorials
 
 [Уроки по руби](https://www.tutorialspoint.com/ruby/index.htm)
 
