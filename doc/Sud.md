@@ -96,3 +96,16 @@
 ### ЧИ можна відправити ПОШТОЮ заяву про надання ВІДСТРОЧКИ до ТЦК та СП⁉️
 
 [Рішення суду](https://reyestr.court.gov.ua/Review/115755979)
+
+
+# ЗУ про Мобілізаційу підготовку і мобілізацію
+
+[ст. 23 ЗУ про Мобілізаційну підготовку і мобілізацію](https://zakon.rada.gov.ua/laws/show/3543-12#n420)
+
+
+
+# Постанови КМУ
+
+[Постанова  № 675](https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-poriadkiv-zatverdzhenykh-postanovamy-kabinetu-ministriv-ukrainy-vid-30-t70624)
+
+[Постанова  № 560](https://www.kmu.gov.ua/npas/pro-zatverdzhennia-poriadku-provedennia-pryzovu-hromadian-na-viiskovu-sluzhbu-pid-chas-mobilizatsii-na-osoblyvyi-period-560-160524)
