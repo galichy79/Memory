@@ -1,5 +1,7 @@
 
 
+[Уроки по руби](https://www.tutorialspoint.com/ruby/index.htm)
+
 [Установка rvm](https://github.com/rvm/ubuntu_rvm)
 
 RVM
